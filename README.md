@@ -41,8 +41,9 @@ This keeps the Application layer independent and easier to test.
 dotnet restore
 dotnet build
 dotnet run --project TaskTracker.Api
+```
 
-## Tests
+## Test
 
 ```bash
 dotnet test
