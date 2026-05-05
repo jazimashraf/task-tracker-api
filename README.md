@@ -42,6 +42,10 @@ dotnet restore
 dotnet build
 dotnet run --project TaskTracker.Api
 ```
+## Swagger:
+```bash
+http://localhost:<port>/swagger
+```
 
 ## Test
 
